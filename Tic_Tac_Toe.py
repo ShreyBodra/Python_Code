@@ -1,11 +1,3 @@
-'''
-Name: Shrey Bodra
-En. No. : 181310132006
-'''
-
-#-------------------------Tic Tac Toe-------------------------------
-
-
 def sample_board():
     # Display sample board
     print("--------------Sample Board--------------")
